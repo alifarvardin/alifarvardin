@@ -58,10 +58,58 @@ EDUCATION :
                             Mashhad, Iran In Computer
 
 
+WORK EXPERIENCE :
+          Oracle DBA Melal Bank (Credit Company)
+          Tehran, Iran — 2016-now https://bank-melal.ir/
+                    This institute is on one of the approved Credit Institutes of Central Bank Of IRAN (CBI) with more than 2 million customers which providing all banking Services to the Customers including Mobile/Internet Banking, E-Payment services, Core Banking Services through the branches and other useful services.
+          My duties include the following:
+                     Installing and Administrating Maximum high availability for Oracle Database with Oracle RAC ( 11.2.0.4 ) on Linux 6.9
+                     Designing and Implementing Oracle Active Data Guard ( 11.2.0.4 ) on Linux 6.9
+                     Defining and establishing Oracle Backup And Recovery strategies on Linux 6.9
+                     Transferring Backup on VERITAS Backup Exec16 on Windows Platform
+                     Installing Oracle patches and critical updates
+                    
+          SQL Server DBA Parsi Software Data Processing (Ican Group)
+          Tehran, Iran — 2014-2016 http://ican.ir/
+                    ICAN Engineering group with 14 years' experience and more than one million users in large/ medium enterprises is a leading company in the design and production of integrated software and solutions in Iran. Due to permanent monitoring of global market trends, the company offers solutions and systems to its customers, based on latest developments in the field of in-formation technology and this fact makes the 1CAN as a premium choice for governmental and private organizations.
+My duties include the following:
+                    • Training and Installation of Office Automation Systems (paper less).
+                    • Installing and Administrating SQL Server 2012
+          Oracle DBA Barid Samaneh Novin.
+          Tehran, Iran — 2005-2013 https://www.baridsoft.ir (Pasargad Online Data Processing Company – 2009 to 2011)
+          (Sepehre Hayat Software Maintenance Company -2007 to 2009)
+          (Naghoos Information Technology Company)
+          Barid Samaneh Novin, as one of the pioneers in Information Technology industry of Iran, since its foundation in 1998 has played a constructive and crucial role in progress and advancement of its customers. It provides comprehensive solutions for automation of services, integration of information, and optimization of business processes for a wide range of organizations in order to institutionalize the general policies of the administrative system. The success of over 1200 of the most prominent organizations throughout the Iran applying Baridsoft’s solutions and their trust in Baridsoft prove the great achievements of this company.
+          My duties include the following:
+                    • Installing and Administrating Oracle RAC on Windows 2012 | 2008 | 2003
+                    • Installing and Administrating Oracle Active Data Guard on Windows 2012 | 2008 | 2003
+                    • Defining Oracle RMAN Backup strategies on Windows 2012 | 2008 | 2003
+                    • Defining Oracle RMAN Recovery strategies on Windows 2012 | 2008 | 2003
+                    • Defining Oracle EXPORT / IMPORT Backup strategies on Windows 2012 | 2008 | 2003
+                    • Designing and implementing Oracle Logical Standby on Windows 2012 | 2008 | 2003
+                    • Designing and implementing Oracle Physical Standby on Windows 2012 | 2008 | 2003
 
 
-
-
+PROJECTS | PART TIME:
+          Oracle DBA Khorasan Kaolin Company.
+          Mashhad, Iran — 2011-now http://www.kaolin-co.com/
+                     Khorasan Kaolin Company, which is a major manufacturer of processed kaolin, has pioneered the production of paper grade kaolin in Iran. This company is at present the only manufacturer of the grade of kaolin employed in various ceramic – related industries such as tile body and enamel, porcelain bathroom services, various enamels, paint &inflammable products.
+          My duties include the following:
+                    • Training and Installation of Office Automation Systems (paper less).
+                    • Defining and establishing Oracle Backup And Recovery strategies on Windows
+                    
+          Oracle DBA Roshan Gostar Toos.
+          Mashhad, Iran — 2011-now http://www.roshangostar.com/
+                     Roshan Gostar Toos Company was founded in 1991 by a number of expert and experienced engineers. It has authorized by TAVANIR (Iran Power Generation and Transmission Co.) to perform TURNKEY projects of power transmission lines and high-voltage substations (up to 400 kv) and also is awarded the 1st rank in the field of power transmission and distribution by the State Management and Planning Organization (MPO).
+          My duties include the following:
+                    • Training and Installation of Office Automation Systems (paper less).
+                    • Defining and establishing Oracle Backup And Recovery strategies on Windows
+          Oracle DBA Mining Engineering Organization.
+          Mashhad, Iran — 2016-now http://www.ime.org.ir/
+                    Mining Engineering System: is a collection of organizations of organizations of professional engineering associations of natural and legal persons and a set of rules and regulations of the regulations and standards in the mining sector.
+          My duties include the following:
+                    • Training and Installation of Office Automation Systems (paper less).
+                    • Defining and establishing Oracle Backup And Recovery strategies on Windows
 
 
 
