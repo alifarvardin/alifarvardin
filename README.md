@@ -1,12 +1,12 @@
-ABOUT ME :
+Who am I || about ME 
+
           Gender: male.
           Date of Birth: 12/08/1981.
           Nationality: Iranian.
           Marital Status: Married.
-          
-          
-A highly motivated Database Administrator with 10+ years of experience in the IT industry in sophisticated and mission critical banking and non-banking domains. I have significant capabilities in Installing, administrating and optimizing of Oracle Databases including Oracle RAC, Data Guard, and Backup & Recovery and also troubleshooting the complex and critical situations.
-SOCIAL NETWORK :
+
+SOCIAL NETWORK 
+
                 LINKEDIN:
                            https://www.linkedin.com/in/alifarvardin/
                 TELEGRAM:
@@ -16,13 +16,18 @@ SOCIAL NETWORK :
                 SKYPE:
                             Alifarvardin_1
                             
-CONTACT :
+CONTACT 
                 WEBSITE:
                             http://www.alifarvardin.com/
                 E-MAIL:
                             Alifarvardin@yahoo.com
                 PHONE:
                             +98 915 106 3918
+I am a highly motivated Database Administrator with 15+ years of experience in the IT industry in sophisticated and mission-critical banking and non-banking domains. I have significant capabilities in Installing and administrating Databases such as Oracle/ MS SQL. I have also experienced working with Docker technologies, Git, and Tsql in the Banking industry.
+
+
+                            
+
 
 CAPABILITY STATEMENTS : 
                              Specialist in Oracle Database capable of managing Oracle databases in enterprise scale.
