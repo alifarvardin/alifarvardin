@@ -94,6 +94,7 @@ WORK EXPERIENCE :
                     •Installing and configuration IIS, FTP on Windows server.
 
 (Oracle DBA) At Barid Samaneh Novin:
+
           Tehran, Iran — 2005-2014                    https://www.baridsoft.ir                               
           My responsibility at the Barid Samaneh Novin Company was:
                     •Installing and Administering Oracle RAC on Windows 2008.
@@ -101,18 +102,24 @@ WORK EXPERIENCE :
                     •Defining Oracle RMAN Backup strategies and Recover that more than 100 times for clients of this Company on Windows 2008.
                     •Defining Oracle EXPORT / IMPORT strategies for the upgrade to a new version of the database and merging some Databases on Windows 2008. 
 
+
 IT & DATABASE | PART TIME :
 
 (Database Consultant) At Behine Sazan Toos Co. (BSTC) :
+
           Mashhad, Iran — 2020-2020                   https://www.bstc.ir/
           My duties in this companies include the following:
                     •Upgrading to Oracle Database  - 11g to 19c.
 
 IT & Database Consultant At  Khorasan Kaolin Company :
+
           Mashhad, Iran — 2011-2022               http://www.kaolin-co.com/
-IT & Database Consultant At Roshan Gostar Toos.
+IT & Database Consultant At Roshan Gostar Toos:
+
           Mashhad, Iran — 2011-2019               http://www.roshangostar.com/
-IT & Database Consultant At Mining Engineering Organization.
+
+IT & Database Consultant At Mining Engineering Organization :
+
           Mashhad, Iran — 2016-2016               http://www.ime.org.ir/
 
           My duties in these companies include the following:
