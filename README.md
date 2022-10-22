@@ -47,21 +47,21 @@ CAPABILITY STATEMENTS :
 
 EDUCATION : 
 
-        Master Imam Reza University
-        2014 Sept 2017 Feb In Computer Engineering (Software)
-        Mashhad, Iran February 26, 2017
+          Master Imam Reza University
+                    2014 Sept 2017 Feb In Computer Engineering (Software)
+                    Mashhad, Iran February 26, 2017
 
-        Bachelor Eghbal Lahori University
-        2012 Sept 2014 Aug In Computer Software Technology Engineering
-        Mashhad, Iran July 21, 2014
+          Bachelor Eghbal Lahori University
+                    2012 Sept 2014 Aug In Computer Software Technology Engineering
+                    Mashhad, Iran July 21, 2014
 
-        Associate Azad University
-        1998 Sept 2000 Sept In Computer Engineering (Software)
-        Mashhad, Iran September 23, 2000
+          Associate Azad University
+                    1998 Sept 2000 Sept In Computer Engineering (Software)
+                    Mashhad, Iran September 23, 2000
 
-        High School High School Diploma
-        1998 Oct
-        Mashhad, Iran In Computer
+          High School High School Diploma
+                    1998 Oct
+                    Mashhad, Iran In Computer
 
 
 WORK EXPERIENCE :
@@ -101,3 +101,20 @@ WORK EXPERIENCE :
                     •Defining Oracle RMAN Backup strategies and Recover that more than 100 times for clients of this Company on Windows 2008.
                     •Defining Oracle EXPORT / IMPORT strategies for the upgrade to a new version of the database and merging some Databases on Windows 2008. 
 
+IT & DATABASE | PART TIME :
+
+(Database Consultant) At Behine Sazan Toos Co. (BSTC) :
+          Mashhad, Iran — 2020-2020                   https://www.bstc.ir/
+          My duties in this companies include the following:
+                    •Upgrading to Oracle Database  - 11g to 19c.
+
+IT & Database Consultant At  Khorasan Kaolin Company :
+          Mashhad, Iran — 2011-2022               http://www.kaolin-co.com/
+IT & Database Consultant At Roshan Gostar Toos.
+          Mashhad, Iran — 2011-2019               http://www.roshangostar.com/
+IT & Database Consultant At Mining Engineering Organization.
+          Mashhad, Iran — 2016-2016               http://www.ime.org.ir/
+
+          My duties in these companies include the following:
+                    •Lead IT projects, including the design and deployment of new IT systems and services.
+                    •Monitor performance of information technology systems to determine cost and productivity levels, and to make recommendations for improving the IT infrastructure.
