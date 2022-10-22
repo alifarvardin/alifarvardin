@@ -66,22 +66,38 @@ EDUCATION :
 
 WORK EXPERIENCE :
 
-SQL Server DBA   Melal Electronic Commerce and Information Technology  :
+(SQL Server DBA) At Melal Electronic Commerce and Information Technology  :
 
           Tehran, Iran — 2019-now                 https://fam724.ir/en
           My responsibility at the Melal Electronic Commerce and Information Technology was:
                     •Experience in writing T-SQL code, Views, Triggers, User-defined Functions, and appropriate stored Procedures to facilitate efficient data manipulation.
                     •Working closely with members of the development team (Backend and Frontend developers) and using tools like Git (Sourcetree, SmartGit), Visual studio, DB forge studio. 
                     
-Oracle DBA       Melal Bank (Credit Company)  :
+(Oracle DBA) At Melal Bank (Credit Company):
 
           Tehran, Iran — 2016-2019                 https://bank-melal.ir/
           My responsibility at the Melal Credit Company was:
-          •Installing and Administering Maximum high availability for Oracle Database with Oracle RAC on Oracle Linux 6.9 & 7.7.
-          •Designing and Implementing Oracle Active Data Guard on Oracle Linux 6.9 & 7.7.
-          •Defining and establishing Oracle Backup and Recovery strategies on Oracle Linux 6.9 & 7.7.
-          •Configure Network interface to use VLANs over bonds and bridges, also Configure Multipath for NETAPP and P2000 storages on Oracle Linux and Centos Linux.
-          •Configure OCFS2 File SYSTEM on Oracle Linux for transferring Data on Cluster Environment.
+                    •Installing and Administering Maximum high availability for Oracle Database with Oracle RAC on Oracle Linux 6.9 & 7.7.
+                    •Designing and Implementing Oracle Active Data Guard on Oracle Linux 6.9 & 7.7.
+                    •Defining and establishing Oracle Backup and Recovery strategies on Oracle Linux 6.9 & 7.7.
+                    •Configure Network interface to use VLANs over bonds and bridges, also Configure Multipath for NETAPP and P2000 storages on Oracle Linux and Centos Linux.
+                    •Configure OCFS2 File SYSTEM on Oracle Linux for transferring Data on Cluster Environment.
 
+(SQL Server DBA) At ICAN Engineering group (Parsi Software Data Processing):
 
+          Tehran, Iran — 2014-2015              http://ican.ir/
+          My responsibility at the ICAN Company was:                                                                                           
+                    •Training and installation of Office Automation Systems (paperless).
+                    •Training and installation of Workflow Engine.
+                    •Installing and Administering SQL Server 2012.
+                    •Defining Backup & Recovery strategies for SQL Server on Windows Server 2012.
+                    •Installing and configuration IIS, FTP on Windows server.
+
+(Oracle DBA) At Barid Samaneh Novin:
+          Tehran, Iran — 2005-2014                    https://www.baridsoft.ir                               
+          My responsibility at the Barid Samaneh Novin Company was:
+                    •Installing and Administering Oracle RAC on Windows 2008.
+                    •Installing and Administering Oracle Active Data Guard more than 100 times for clients of this Company on Windows 2008.
+                    •Defining Oracle RMAN Backup strategies and Recover that more than 100 times for clients of this Company on Windows 2008.
+                    •Defining Oracle EXPORT / IMPORT strategies for the upgrade to a new version of the database and merging some Databases on Windows 2008. 
 
