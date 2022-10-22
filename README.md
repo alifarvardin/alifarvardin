@@ -66,13 +66,22 @@ EDUCATION :
 
 WORK EXPERIENCE :
 
-          SQL Server DBA   Melal Electronic Commerce and Information Technology  
-          Tehran, Iran — 2019-now                 https://fam724.ir/en
+SQL Server DBA   Melal Electronic Commerce and Information Technology  :
 
+          Tehran, Iran — 2019-now                 https://fam724.ir/en
           My responsibility at the Melal Electronic Commerce and Information Technology was:
                     •Experience in writing T-SQL code, Views, Triggers, User-defined Functions, and appropriate stored Procedures to facilitate efficient data manipulation.
                     •Working closely with members of the development team (Backend and Frontend developers) and using tools like Git (Sourcetree, SmartGit), Visual studio, DB forge studio. 
                     
-                    
+Oracle DBA       Melal Bank (Credit Company)  :
+
+          Tehran, Iran — 2016-2019                 https://bank-melal.ir/
+          My responsibility at the Melal Credit Company was:
+          •Installing and Administering Maximum high availability for Oracle Database with Oracle RAC on Oracle Linux 6.9 & 7.7.
+          •Designing and Implementing Oracle Active Data Guard on Oracle Linux 6.9 & 7.7.
+          •Defining and establishing Oracle Backup and Recovery strategies on Oracle Linux 6.9 & 7.7.
+          •Configure Network interface to use VLANs over bonds and bridges, also Configure Multipath for NETAPP and P2000 storages on Oracle Linux and Centos Linux.
+          •Configure OCFS2 File SYSTEM on Oracle Linux for transferring Data on Cluster Environment.
+
 
 
