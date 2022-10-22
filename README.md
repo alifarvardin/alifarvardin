@@ -1,4 +1,4 @@
-Who am I || about ME 
+ABOUT ME 
 
           Gender: male.
           Date of Birth: 12/08/1981.
@@ -17,19 +17,24 @@ SOCIAL NETWORK
                             Alifarvardin_1
                             
 CONTACT 
+
                 WEBSITE:
                             http://www.alifarvardin.com/
                 E-MAIL:
                             Alifarvardin@yahoo.com
                 PHONE:
                             +98 915 106 3918
-I am a highly motivated Database Administrator with 15+ years of experience in the IT industry in sophisticated and mission-critical banking and non-banking domains. I have significant capabilities in Installing and administrating Databases such as Oracle/ MS SQL. I have also experienced working with Docker technologies, Git, and Tsql in the Banking industry.
+                            
 
+BIO:
+
+               I am a highly motivated Database Administrator with 15+ years of experience in the IT industry in sophisticated and mission-critical banking and non-banking domains. I have significant capabilities in Installing and administrating Databases such as Oracle/ MS SQL. I have also experienced working with Docker technologies, Git, and Tsql in the Banking industry.
 
                             
 
 
 CAPABILITY STATEMENTS : 
+
                              Specialist in Oracle Database capable of managing Oracle databases in enterprise scale.
                              Designing and establishing HA and Reliability with Oracle RAC and standby databases.
                              Defining and planning Backup & Recovery strategies.
@@ -46,6 +51,7 @@ CAPABILITY STATEMENTS :
                              Specialist in VERITAS Backup EXEC.
 
 EDUCATION : 
+
                             Master Imam Reza University
                             2014 Sept 2017 Feb In Computer Engineering (Software)
                             Mashhad, Iran February 26, 2017
