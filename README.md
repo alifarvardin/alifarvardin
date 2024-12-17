@@ -28,21 +28,19 @@ CONTACT :
 
 CAPABILITY STATEMENTS : 
 
-          •Experience working with Microsoft SQL Server.
-          •Experience working with MySQL (Maria dB) / MongoDB just for backup and recovery.
-          •Specialist in Oracle Database 19c/12c/11g.
-          •Specialist in Oracle Backup & Recovery and Strategies.
-          •Designing High Availability and Reliability with Oracle Active Data Guard.
-          •Experience working with Microsoft SQL Server.
-          •Experience working with MySQL (Maria dB) / MongoDB just for backup and recovery.
-          •Familiar with Microsoft Integration Services (SSIS).
-          •Full command of Red Hat Enterprise Linux Servers for DBA.
-          •Experience working with Docker Technology 
-          •Experience working with (Git, Gitlab, Sourcetree, SmartGit)
-          •Familiar with CSS - HTML -JavaScript
-          •Specialist in "VERITAS Backup EXEC" software for "HP & Tandberg" tape Devices.
-          •Good knowledge of Storage Concepts (EMC, NetApp, P2000).
-          •Familiar with the concepts of Blockchain technology - Defi - NFTs and digital currencies and also have information about Metaverse technology (AR/VR/...)
+                   
+          CAPABILITY STATEMENTS 
+          • Data Analysts
+          • Designing and developing databases using SQL Server and T-SQL (Stored Procedures, Functions, Triggers, Views, …)
+          • Experience working with Microsoft SQL Server.
+          • Experience working with Microsoft Power BI.
+          • Specialist in Oracle Database 19c/12c/11g.
+          • Experience working with MySQL (Maria dB) / MongoDB just for backup and recovery.
+          • Specialist in Oracle Backup & Recovery and Strategies.
+          • Designing High Availability and Reliability with Oracle Active Data Guard.
+          • Experience working with command of Red Hat Enterprise Linux Servers for DBA.
+          • Experience working with Docker Technology.
+          • Experience working with (Git, Gitlab, Sourcetree, SmartGit).
 
 
 EDUCATION : 
