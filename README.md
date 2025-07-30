@@ -26,9 +26,10 @@ CONTACT :
 
 CAPABILITY STATEMENTS : 
 
-          I am currently focused on Artificial Intelligence and Intelligent Automation, working with cutting-edge tools such as Large Language Models (LLMs), Open WebUI, AnythingLLM, and n8n to build smart, self-hosted, and automated systems for enterprise environments.
-          
-          Prior to this transition, I spent over 15 years as a Database Administrator, designing, implementing, and managing critical database systems in high-stakes banking and enterprise settings. This solid foundation enables me to bridge traditional data platforms with next-generation AI capabilities to deliver scalable, intelligent solutions.
+          I am currently focused on Artificial Intelligence and Intelligent Automation, working with cutting-edge tools such as :
+          Large Language Models (LLMs), Open WebUI, AnythingLLM, and n8n to build smart, self-hosted, and automated systems for enterprise environments.
+          Prior to this transition, I spent over 15 years as a Database Administrator, designing, implementing, and managing critical database systems in high-stakes banking and enterprise settings. 
+          This solid foundation enables me to bridge traditional data platforms with next-generation AI capabilities to deliver scalable, intelligent solutions.
           
           Current Areas of Focus:
           Working with open-source LLM platforms (Open WebUI, AnythingLLM)
