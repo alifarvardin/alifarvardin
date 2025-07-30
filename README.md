@@ -1,7 +1,7 @@
 ABOUT ME :
 
           Gender: male.
-          Date of Birth: 12/08/1981.
+          Date of Birth: 1981.
           Nationality: Iranian.
           Marital Status: Married.
 
@@ -13,13 +13,11 @@ SOCIAL NETWORK :
                   https://t.me/Alifarvardin/
           WHATSAPP:
                   https://wa.me/989151063918
-          SKYPE:
-                  Alifarvardin_1
                             
 CONTACT :
 
           WEBSITE:
-                  http://www.alifarvardin.com/
+                  http://www.alifarvardin.ir/
           E-MAIL:
                   Alifarvardin@yahoo.com
           PHONE:
@@ -28,19 +26,29 @@ CONTACT :
 
 CAPABILITY STATEMENTS : 
 
-                   
-          CAPABILITY STATEMENTS 
-          • Data Analysts
-          • Designing and developing databases using SQL Server and T-SQL (Stored Procedures, Functions, Triggers, Views, …)
-          • Experience working with Microsoft SQL Server.
-          • Experience working with Microsoft Power BI.
-          • Specialist in Oracle Database 19c/12c/11g.
-          • Experience working with MySQL (Maria dB) / MongoDB just for backup and recovery.
-          • Specialist in Oracle Backup & Recovery and Strategies.
-          • Designing High Availability and Reliability with Oracle Active Data Guard.
-          • Experience working with command of Red Hat Enterprise Linux Servers for DBA.
-          • Experience working with Docker Technology.
-          • Experience working with (Git, Gitlab, Sourcetree, SmartGit).
+          I am currently focused on Artificial Intelligence and Intelligent Automation, working with cutting-edge tools such as Large Language Models (LLMs), Open WebUI, AnythingLLM, and n8n to build smart, self-hosted, and automated systems for enterprise environments.
+          
+          Prior to this transition, I spent over 15 years as a Database Administrator, designing, implementing, and managing critical database systems in high-stakes banking and enterprise settings. This solid foundation enables me to bridge traditional data platforms with next-generation AI capabilities to deliver scalable, intelligent solutions.
+          
+          Current Areas of Focus:
+          Working with open-source LLM platforms (Open WebUI, AnythingLLM)
+          Building AI-powered workflows using n8n
+          Implementing RAG architectures and connecting AI agents to vector databases
+          Deploying self-hosted AI infrastructure for offline enterprise use
+          
+          🔧 Previous Capabilities (Database & Data Systems Expertise):
+          
+          • Data analysis and interpretation
+          • Designing and developing databases using SQL Server and T-SQL (Stored Procedures, Functions, Triggers, Views, etc.)
+          • Hands-on experience with Microsoft SQL Server
+          • Reporting and dashboards with Microsoft Power BI
+          • Oracle Database specialist (19c / 12c / 11g)
+          • Experience with MySQL (MariaDB) and MongoDB (for backup and recovery purposes)
+          • Oracle Backup & Recovery strategies
+          • Designing High Availability with Oracle Active Data Guard
+          • Working with Red Hat Enterprise Linux environments for DBA operations
+          • Proficient with Docker technology
+          • Familiarity with Git, GitLab, SourceTree, and SmartGit
 
 
 EDUCATION : 
@@ -59,7 +67,7 @@ EDUCATION :
 
           High School High School Diploma
                     1998 Oct
-                    Mashhad, Iran In Computer
+                    Mashhad, Iran - Computer
 
 
 WORK EXPERIENCE :
