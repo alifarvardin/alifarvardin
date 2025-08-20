@@ -23,7 +23,6 @@ CONTACT :
           PHONE:
                   +98 915 106 3918
                             
-
 CAPABILITY STATEMENTS : 
 
           I am currently focused on Artificial Intelligence and Intelligent Automation, working with cutting-edge tools such as :
